@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Codewars](https://github.r2v.ch/codewars?user=Stedjey)
-![Leetcode Stats](https://leetcard.jacoblin.cool/user3070W)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Stedjey)
