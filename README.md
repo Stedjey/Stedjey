@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI projects
 - 💬 Ask me about ...
 - 📫 How to reach me:
-- telegram @stefanio1
-- email martynovich.s@gmail.com
+-- telegram: @stefanio1
+-- email: martynovich.s@gmail.com
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=Stedjey)
