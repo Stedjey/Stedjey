@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/stefanio1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stepanmartynovich) 
 
 # 💻 Tech Stack:
