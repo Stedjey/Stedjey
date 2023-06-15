@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
  - telegram: @stefanio1
  - email: martynovich.s@gmail.com
+ - kaggle: https://www.kaggle.com/stepanmartynovich
 
 
 ## 🌐 Socials:
